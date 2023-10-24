@@ -1,0 +1,1 @@
+# Group-Method-of-Data-Handling-GMDH-Neural-Network
